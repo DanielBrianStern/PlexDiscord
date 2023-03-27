@@ -1,0 +1,2 @@
+# PlexDiscord
+Discord / Plex Integration
